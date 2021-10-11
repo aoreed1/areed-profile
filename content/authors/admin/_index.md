@@ -1,6 +1,6 @@
 ---
 role: Cyber Security Student
-avatar_filename: areed-photo2020-square.jpg
+avatar_filename: avatar.jpg
 bio: A highly motivated and enthusiastic individual with a fine attention to detail
 interests: []
 social:
