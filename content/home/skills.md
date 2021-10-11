@@ -1,9 +1,9 @@
 ---
 widget: featurette
-widget_id: skills
+widget_id: expertise
 headless: true
 weight: 2
-title: Skills
+title: Expertise
 subtitle: null
 active: true
 feature:
