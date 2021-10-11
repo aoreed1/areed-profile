@@ -1,6 +1,6 @@
 ---
 title: Alex Reed
-role: Cyber Security, BSc (Hons) Student
+role: Cyber Security Student
 bio: A highly motivated and enthusiastic individual with a fine attention to detail
 interests: []
 social:
